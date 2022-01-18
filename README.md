@@ -1,3 +1,4 @@
+![Figure 1](https://github.com/haamedmomeni/haamedmomeni/blob/main/Banner.png "Figure 1")
 ## About me
 
 Hey there!
